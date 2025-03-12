@@ -1,4 +1,4 @@
-import 'package:empty/cat/bemen3/dam/m8/uf2/p3b/serveis/model/car_model.dart';
+import 'package:empty/cat/bemen3/dam/m8/uf2/p3b/serveis/ex1/car_model.dart';
 import 'package:http/http.dart' as http;
 // import 'package:rentcar/model/brand_model.dart';
 // import 'package:rentcar/model/car_model.dart';

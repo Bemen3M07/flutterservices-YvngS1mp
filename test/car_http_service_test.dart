@@ -1,4 +1,4 @@
-import 'package:empty/cat/bemen3/dam/m8/uf2/p3b/serveis/model/car_http_service.dart';
+import 'package:empty/cat/bemen3/dam/m8/uf2/p3b/serveis/ex1/car_http_service.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
