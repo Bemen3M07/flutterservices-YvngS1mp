@@ -1,0 +1,2 @@
+C:/Users/Leandro/Documents/GitHub/flutterservices-YvngS1mp/android/app/.cxx/Debug/185v602u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Leandro/Documents/GitHub/flutterservices-YvngS1mp/android/app/.cxx/Debug/185v602u/arm64-v8a/CMakeFiles/rebuild_cache.dir
